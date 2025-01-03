@@ -1,2 +1,2 @@
 # Learn-Python
-Pythons are fun to learn!
+Python is fun to learn!
